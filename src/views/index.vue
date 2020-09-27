@@ -75,9 +75,8 @@
 					},
 				},
 			];
-			let data = [];
-			const getTableData = async () => {};
-			getTableData();
+			const data = [];
+
 			return {
 				data: data,
 				columns: columns,
